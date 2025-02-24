@@ -1,0 +1,7 @@
+mediapipe
+opencv-python
+transformers
+accelerate
+diffusers
+ipywidgets
+controlnet_aux
